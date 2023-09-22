@@ -1,0 +1,7 @@
+{
+    "cmake.configureOnOpen": false,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "java\\lib\\JSerialComm.jar"
+    ]
+}
